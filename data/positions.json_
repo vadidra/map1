@@ -1,0 +1,307 @@
+{"jobs":[
+
+        {
+        "employer":"Cornestone On Demand",
+	"address":"1601 Cloverfield Blvd Santa Monica CA 90404",
+	"positions":	[	
+			{
+			"position":"Senior Quality Assurance Analyst",
+	    		"type":"qa",
+			"url":"https://cornerstone.csod.com/ats/careersite/JobDetails.aspx?id=597",
+			"keywords":	[
+	    				".Net/C#", 
+        				"MS SQL Server,T-SQL,SP",
+        				"SSIS",
+        				"SQA test cases",
+        				"test automation framework",
+        				"Grey- and white-box testing",
+        				"Version control",
+        				"TFS, Perforce"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"Experian",
+	"address":"841 Apollo St El Segundo CA 90245",
+	"positions":	[	
+			{
+			"position":"Software QA Analyst",
+	    		"type":"qa",
+			"url":"https://experian.taleo.net/careersection/2/jobdetail.ftl?job=15173",
+			"keywords":	[
+					"web services, API testing",
+					"automating test frameworks with scripting language like Python"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"Experian",
+	"address":"475 Anton Boulevard Costa Mesa CA 92626",
+	"positions":	[	
+			{
+			"position":"Software QA Analyst",
+	    		"type":"qa",
+			"url":"https://experian.taleo.net/careersection/2/jobdetail.ftl?job=15173",
+			"keywords":	[
+					"web services, API testing",
+					"automating test frameworks with scripting language like Python"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"3M",
+	"address":"639 North Rosemead Boulevard Passadena CA 91107",
+	"positions":	[	
+			{
+			"position":"Software Quality Assurance Engineer",
+	    		"type":"qa",
+			"url":"http://jobs.3m.com/job/Pasadena-Software-Quality-Assurance-Engineer-Job-Ca-91101/235288600/",
+			"keywords":	[
+					"C/C++/C#/Java",
+					"OS Windows, Linux, Unix",
+					"SQL, Oracle, MS SQL, MySQL"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"BuzzFeed",
+	"address":"7323 Beverly Blvd Los Angeles CA 90036",
+	"positions":	[	
+			{
+			"position":"QA Engineer Video",
+	    		"type":"qa",
+			 "url":"http://www.buzzfeed.com/about/jobs?gh_jid=31017",
+			"keywords":	[
+					"JavaScript, HTML, CSS",
+         				"UX and usability testing",
+	 	 			"SQL",
+	 	 			"MongoDB, API and automation",
+	     				"+Selenium WebDRiver",
+	 	 			"+proxy debugging tool",
+	 	 			"+web tracking tools",
+	 	 			"+YouTube API"
+					]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"FILD",
+	"address":"999 N Sepulveda Blvd El Segundo CA 90245",
+	"positions":	[	
+			{
+			"position":"QA Engineer",
+	    		"type":"qa",
+			 "url":"http://jobs.fildit.com/job/QA-Engineer-Selenium-C-High-Volume-B2C-eCommerce-Santa-Monica-California-34638711?rx_job=34638711&rx_source=Indeed&rx_campaign=Indeed87&rx_medium=cpc",
+			"keywords":	[
+					"Solid QA experience on ecommerce or consumer facing web applications",
+					 "automated test scripts with Selenium and C#",
+					 "cross-browser testing",
+					 "Experience testing responsive sites across desktop, tablet and mobile",
+					 "HTML, CSS",
+					 "CMS"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"XYPRO",
+	"address":"4100 Guardian Street Simi Valley CA 93063",
+	"positions":	[	
+			{
+			"position":"Software QA Engineer",
+	    		"type":"qa",
+			"url":"https://www.xypro.com/xypro/about_us/Careers",
+			"keywords":	[
+					"Test Automation experience",
+					 "SDLC, Requirements Managements, Test Management, Defect Tracking tools",
+					 "client UI testing, stress, load, black and white box testing, API testing"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"Direct TV",
+	"address":"418 South Hope St Los Angeles 90071",
+	"positions":	[	
+			{
+			"position":"Junior Software QA Engineer",
+	    		"type":"qa",
+			"url":"http://jobs.directv.com/us/united-states/engineering/jobid6911886-junior-software-qa-engineer?apstr=%26src%3DJB-10224&ss=paid",
+			"keywords":	[
+					"One of - Java, Python, C++ etc",
+         				"Linux, WiFi, Networking",
+         				"SDLC",
+	 				"QA Automation experience with Selenium",
+	 				"Web debugging experience with Firebug, Wireshark" 
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"The Mobile Majority",
+	"address":"2041 Colorado Ave Santa Monica 90404",
+	"positions":	[	
+			{
+			"position":"Quality Assurance Engineer",
+	    		"type":"qa",
+			"url":"http://themobilemajority.workable.com/jobs/40669",
+			"keywords":	[
+         				"read tests in Ruby, Javascript, & Java",
+         				"write tests in at least one of Ruby, Javascript, or Java"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"Ubiquiti Networks - UI Design Lab",
+	"address":"3109 South La Cienega Boulevard  Los Angeles  CA 90016",
+	"positions":	[	
+			{
+			"position":"Software Quality Assurance Engineer - UniFi Video",
+	    		"type":"qa",
+			"url":"http://ubnt.theresumator.com/apply/aAPGib/Software-Quality-Assurance-Engineer-UniFi-Video.html",
+			"keywords":	[
+					"Manual software testing",
+         				"White box, grey box, black box testing",
+	 				"Source control, configuration management, continuous integration",
+	 				"JavaScript",
+	 				"JIRA/Confluence (Atlassian Suite)",
+	 				"Bonus: Mobile app testing, Angular.js, Java, JUnit, QUnit, Python, JMeter"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"the Next Up",
+	"address":"1241 N Lakeview Ave Anaheim CA 92807",
+	"positions":	[	
+			{
+			"position":"Software Quality Assurance Engineer",
+	    		"type":"qa",
+			"url":"http://www.indeed.com/viewjob?jk=ac7a3241ea1fb0e7&q=qa&l=Los+Angeles,+CA&tk=19dsei73s07826qi&from=jarecjobs&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts",
+			"keywords":	[
+					"Mobile application testing",
+         				"SOAP and RESTfull API testing",
+	 				"multi-tier software",
+	 				"TFS and integration testing",
+	 				"read and code in scripting language",
+	 				"automation and turning manual tests to automation"
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"True Car",
+	"address":"120 Broadway Santa Monica CA 90401",
+	"positions":	[	
+			{
+			"position":"Software Development Engineer in Test",
+	    		"type":"qa",
+			"url":"https://www.truecar.com/hiring.html",
+			"keywords":	[
+					"Mobile application testing",
+         				"SOAP and RESTfull API testing",
+	 				"Multi-tier software",
+	 				"TFS and integration testing",
+	 				"Read and code in scripting language",
+	 				"Automation and turning manual tests to automation",
+					"Strong programming skills in Python (preferred), Java, etc",
+    					"Proficiency in a Unix environment (navigation, tools, concepts)",
+    					"Relational databases (extract and update data)",
+    					"+Software development using Python",
+    					"+Experience with web and/or API development",
+    					"+Testing web services",
+    					"+Open-source tools and frameworks (Selenium, Watir, etc.)",
+    					"+Experience automating web GUI and web services tests" 
+	    				]
+			}
+			]
+        
+        },
+
+	{
+        "employer":"Guidance",
+	"address":"4134 Del Rey Avenue Marina del Rey CA 90292",
+	"positions":	[	
+			{
+			"position":"Software QA Engineer",
+	    		"type":"qa",
+			"url":"http://www.guidance.com/careers/qa-engineer",
+			"keywords":	[
+					"QA tools like Selenium, JMeter and TestRail",
+         				"QA concept, practices, tools and metrics",
+	 				"testing of eCommerce enterprise and mobile app",
+	 				"MS SQL Server, .NET, PHP"
+	 				]
+			}
+			]
+        
+        },
+
+	{
+	"employer":"Test 2",
+	"address":"1241 N Lakeview Ave Anaheim CA 92807",
+	"positions":	[	
+			{
+			"position":"Software Quality Assurance Engineer",
+	    		"type":"qa",
+			"url":"http://www.indeed.com/viewjob?jk=ac7a3241ea1fb0e7&q=qa&l=Los+Angeles,+CA&tk=19dsei73s07826qi&from=jarecjobs&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts",
+			"keywords":	[
+					"Mobile application testing",
+         				"SOAP and RESTfull API testing",
+	 				"multi-tier software",
+	 				"TFS and integration testing",
+	 				"read and code in scripting language",
+	 				"automation and turning manual tests to automation"
+	    				]
+			},
+			{
+			"position":"position2",
+	    		"type":"qa",
+			"url":"https://experian.taleo.net/careersection/2/jobdetail.ftl?job=15173",
+			"keywords":	[
+					"web services, API testing",
+					"automating test frameworks with scripting language like Python"
+	    				]
+			}
+			]
+        
+        }
+
+
+
+
+
+	]
+}
+
+
+
+
+	
